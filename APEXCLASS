@@ -1,0 +1,3 @@
+Public APEXCLASS{
+ system.debug('hello');
+ }
